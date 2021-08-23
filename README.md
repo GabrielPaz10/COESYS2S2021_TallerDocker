@@ -8,3 +8,8 @@ ___
 * [Dia 1]()
 * [Dia 2]()
 * [Dia 3]()
+
+### Miembros
+|![](https://avatars.githubusercontent.com/u/39929915?v=4)[Gabriel Paz](https://github.com/GabrielPaz10) | ![](https://avatars.githubusercontent.com/u/22016335?v=4)[Aby Palencia](https://github.com/AbyPalencia)| 
+|---|---|
+| iu|hola|
