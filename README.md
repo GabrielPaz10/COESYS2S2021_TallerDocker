@@ -11,7 +11,7 @@ ___
     * [Descargar Docker Windows](https://www.docker.com/products/docker-desktop)
     * [WSL (Requisitos y como activar)](https://docs.microsoft.com/es-es/windows/wsl/install-win10#step-4---download-the-linux-kernel-update-package)
     * [Docker-Hub](https://hub.docker.com)
-* [Dia 3]()
+* [Dia 3](https://drive.google.com/file/d/12g7AA-GflelGpwOvBN0OE06wPE4tnxXA/view)
     * [JDK]( https://www.oracle.com/java/technologies/javase-jdk16-downloads.html#license-lightbox)
     * [SQL Developer](https://www.oracle.com/tools/downloads/sqldev-downloads.html#license-lightbox)
     
